@@ -3,7 +3,7 @@ materiales para curso virtual de vertebrados, universidad de los andes
 
 ## Primer Módulo, Semanas 1-2: La Crisis Global de los Anfibios
 
-# Objetivos de aprendizaje
+## Objetivos de aprendizaje
 
 -	Comprender cómo aspectos de la biología de los organismos los hacen vulnerables a cambios en el ambiente: el papel de la biología de los anfibios en su crisis global de conservación en un mundo cambiante.
 
@@ -11,9 +11,9 @@ materiales para curso virtual de vertebrados, universidad de los andes
 
 -	Comprender los conceptos de cascada trófica y especie clave a través del estudio del papel de los anfibios en el funcionamiento de los ecosistemas evidenciado por las consecuencias de su desaparición.
 
-# Competencias a desarrollar
+## Competencias a desarrollar
 
-# Instrucciones para los estudiantes
+## Instrucciones para los estudiantes
 
 # Miércoles 25 de marzo
 
