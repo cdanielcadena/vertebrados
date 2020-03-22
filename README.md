@@ -17,7 +17,7 @@ materiales para curso virtual de vertebrados, universidad de los andes
 
     Martes marzo 25
 
-Muchos anfibios de todo el mundo se han extinguido o están en grave peligro de extinción. En este módulo del curso estudiaremos las causas y consecuencias de las extinciones y disminuciones poblacionales de anfibios.
+Muchos anfibios de todo el mundo se han extinguido o están en grave peligro de extinción. En este módulo del curso estudiaremos las causas y consecuencias de las extinciones y disminuciones poblacionales de estos animales.
 
 Hasta hace relativamente poco tiempo, las causas de la disminución poblacional de varias de las especies eran un misterio, tal como lo resumieron Stuart et al. en este [artículo](https://pdfs.semanticscholar.org/aaeb/e0ee4e89838171b5bccd1d6c74cfa652c280.pdf?_ga=2.51507628.421737405.1584920555-1139811814.1584920555) en Science en 2004. Desde ese entonces,
 
