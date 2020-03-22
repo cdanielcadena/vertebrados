@@ -13,7 +13,7 @@ materiales para curso virtual de vertebrados, universidad de los andes
 
 # Competencias a desarrollar
 
-# Instrucciones para los Estudiantes
+# Instrucciones para los estudiantes
 
 # Miércoles 25 de marzo
 
