@@ -15,7 +15,7 @@ materiales para curso virtual de vertebrados, universidad de los andes
 
 ## Instrucciones para los estudiantes
 
-# Miércoles 25 de marzo
+    Martes marzo 25
 
 Muchas de especies de anfibios de todo el mundo se han extinguido o están en grave peligro de extinción. 
 
