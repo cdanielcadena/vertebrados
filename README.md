@@ -4,7 +4,7 @@ materiales para curso virtual de vertebrados, universidad de los andes
 ## Primer Módulo, Semanas 1-2: La Crisis Global de los Anfibios
 
 ![](ranas.jpg)
-    Ranas muertas por infección con el hongo en la Sierra Nevada de California. Fotografía de Joel Sartore para National Geographic.
+    Ranas muertas por infección con el hongo en la Sierra Nevada de California. Fotografía de [Joel Sartore](https://www.instagram.com/joelsartore/?hl=en) para National Geographic.
     
 ## Objetivos de aprendizaje
 
