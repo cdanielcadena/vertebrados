@@ -1,7 +1,11 @@
 # Vertebrados UniAndes 2020-10
-materiales para curso virtual de vertebrados, universidad de los andes
-
-## Primer Módulo, Semanas 1-2: La Crisis Global de los Anfibios
+    
+    Profesor: C. Daniel Cadena (ccadena@uniandes.edu.co) 
+    Materiales para curso virtual de Vertebrados, Universidad de los Andes
+    Horario: martes, miércoles y jueves, 11-11:50 am
+    Aula Virtual en SicuaPlus
+       
+## Primer Módulo: La Crisis Global de los Anfibios
 
 ![](ranas.jpg)
     Ranas muertas por infección con el hongo *Batrachochytrium dendrobatidis* en la Sierra Nevada de California, Estados Unidos. Fotografía de [Joel Sartore](https://www.instagram.com/joelsartore/?hl=en) para National Geographic.
