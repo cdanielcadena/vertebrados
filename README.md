@@ -26,7 +26,7 @@
 
 ## Instrucciones para los estudiantes
 
-# Martes 24 de marzo
+### Martes 24 de marzo
 
 Muchos anfibios de todo el mundo se han extinguido o están en grave peligro de extinción. En este módulo del curso estudiaremos las causas y consecuencias de las extinciones y disminuciones poblacionales de estos animales.
 
