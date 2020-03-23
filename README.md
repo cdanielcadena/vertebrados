@@ -36,7 +36,7 @@ Desde hace más de una década, es claro que nos enfrentamos a una [crisis](http
 
 A lo largo de los últimos años, hemos aprendido bastante acerca de la crisis de los anfibios. Comenzaremos el trabajo de estas dos semanas con una introducción al problema. Use la hora de la clase del miércoles 25 para ver este [vídeo](https://youtu.be/1_cGPLO8dos) divulgativo en el que se ilustran varias aristas del problema. Como verá, algunos de los desafíos para la conservación de anfibios son (1) la enfermedad infecciosa emergente causada por el hongo *Batrachochytrium dendrobatidis*, (2) la contaminación con pesticidas y (3) el cambio climático. 
 
-# Miércoles 25 de marzo
+### Miércoles 25 de marzo
 
 Su tarea para esta semana consistirá en investigar y aprender independientemente sobre alguno de los tres desafíos que enfrentan los anfibios que mencionamos ayer. Escoja una de las tres opciones descritas a continuación y siga las instrucciones:
 
