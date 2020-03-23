@@ -8,7 +8,7 @@ materiales para curso virtual de vertebrados, universidad de los andes
     
 ## Objetivos de aprendizaje
 
--	Comprender cómo aspectos de la biología de los organismos los hacen vulnerables a cambios en el ambiente: el papel de la biología de los anfibios en su crisis global de conservación en un mundo cambiante.
+-	Comprender cómo aspectos de la biología de los organismos los hacen vulnerables a cambios en el ambiente.
 
 -	Usando como estudio de caso el declive de poblaciones de anfibios, entender cómo se aplica el método científico para resolver problemas de investigación en biología.
 
