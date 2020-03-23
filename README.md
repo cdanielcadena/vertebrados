@@ -16,7 +16,7 @@ materiales para curso virtual de vertebrados, universidad de los andes
 
 ## Competencias a desarrollar
 
--	Habilidad para leer y comprender literatura científica.
+-	Habilidad para leer, comprender e integrar información de la literatura científica.
 
 -	Capacidad de divulgar información científica para un público amplio mediante una infografía.
 
