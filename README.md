@@ -1,6 +1,7 @@
 # Vertebrados UniAndes 2020-10
     
-    Profesor: C. Daniel Cadena (ccadena@uniandes.edu.co) 
+    Profesor: C. Daniel Cadena (ccadena@uniandes.edu.co)
+    Asistente Graduado: Mateo Dávila (mm.davila@uniandes.edu.co)
     Materiales para curso virtual de Vertebrados, Universidad de los Andes
     Horario: martes, miércoles y jueves, 11-11:50 am
     Aula Virtual en SicuaPlus
