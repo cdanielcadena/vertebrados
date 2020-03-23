@@ -3,6 +3,8 @@ materiales para curso virtual de vertebrados, universidad de los andes
 
 ## Primer Módulo, Semanas 1-2: La Crisis Global de los Anfibios
 
+![](ranas.jpg)
+
 ## Objetivos de aprendizaje
 
 -	Comprender cómo aspectos de la biología de los organismos los hacen vulnerables a cambios en el ambiente: el papel de la biología de los anfibios en su crisis global de conservación en un mundo cambiante.
