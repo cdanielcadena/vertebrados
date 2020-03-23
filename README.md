@@ -16,6 +16,10 @@ materiales para curso virtual de vertebrados, universidad de los andes
 
 ## Competencias a desarrollar
 
+-	Habilidad para leer y comprender literatura científica.
+
+-	Capacidad de divulgar información científica para un público amplio mediante una infografía.
+
 ## Instrucciones para los estudiantes
 
 Muchos anfibios de todo el mundo se han extinguido o están en grave peligro de extinción. En este módulo del curso estudiaremos las causas y consecuencias de las extinciones y disminuciones poblacionales de estos animales.
