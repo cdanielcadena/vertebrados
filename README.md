@@ -38,6 +38,6 @@ Mañana nos encontraremos a la hora de clase. Las instrucciones para el trabajo 
 
 ### Miércoles 25 de marzo
 
-A lo largo de los últimos años, hemos aprendido bastante acerca de la crisis de los anfibios. Comenzaremos el trabajo de estas dos semanas con una introducción al problema. Use la hora de la clase de hoy para ver este [vídeo](https://youtu.be/1_cGPLO8dos) divulgativo en el que se ilustran varias aristas del problema. Como verá, algunos de los desafíos para la conservación de anfibios son (1) la enfermedad infecciosa emergente causada por el hongo *Batrachochytrium dendrobatidis*, (2) la contaminación con pesticidas y (3) el cambio climático.
+A lo largo de los últimos años, hemos aprendido bastante acerca de la crisis de los anfibios. Comenzaremos nuestro trabajo sobre el tema  con una introducción al problema. Dedique la hora de la clase de hoy a ver este [vídeo](https://youtu.be/1_cGPLO8dos) en el que se ilustran varias aristas del problema. Como verá, algunos de los desafíos para la conservación de anfibios son (1) la enfermedad infecciosa emergente causada por el hongo *Batrachochytrium dendrobatidis*, (2) la contaminación con pesticidas y (3) el cambio climático.
 
 Su primera tarea consistirá en investigar y aprender independientemente sobre alguno de los tres desafíos que enfrentan los anfibios que identificamos. Para mañana jueves, piense en cuál de los tres desafíos le gustaría enfocarse para un ejercicio de estudio independiente. Nos encontraremos a la hora de clase en el espacio virtual de SicuaPlus.
