@@ -35,3 +35,9 @@ Como punto de partida debemos conocer quiénes son los anfibios y cuáles son su
 Desde hace más de una década, es claro que nos enfrentamos a una [crisis](https://www.pnas.org/content/105/Supplement_1/11466) en la conservación de los anfibios. Sin embargo, hasta hace relativamente poco tiempo las causas de la disminución poblacional de varias de las especies eran un misterio, tal como lo resumieron Stuart et al. en este [artículo](https://pdfs.semanticscholar.org/aaeb/e0ee4e89838171b5bccd1d6c74cfa652c280.pdf?_ga=2.51507628.421737405.1584920555-1139811814.1584920555) en Science en 2004. Déle una mirada al menos al resumen y las figuras del artículo para que se de una idea de lo que sabíamos hasta ese momento. Claro, idealmente léalo completo.
 
 Mañana nos encontraremos a la hora de clase. Las instrucciones para el trabajo que haremos serán publicadas en esta página a las 10:45 am.
+
+### Miércoles 25 de marzo
+
+A lo largo de los últimos años, hemos aprendido bastante acerca de la crisis de los anfibios. Comenzaremos el trabajo de estas dos semanas con una introducción al problema. Use la hora de la clase de hoy para ver este [vídeo](https://youtu.be/1_cGPLO8dos) divulgativo en el que se ilustran varias aristas del problema. Como verá, algunos de los desafíos para la conservación de anfibios son (1) la enfermedad infecciosa emergente causada por el hongo *Batrachochytrium dendrobatidis*, (2) la contaminación con pesticidas y (3) el cambio climático.
+
+Su primera tarea consistirá en investigar y aprender independientemente sobre alguno de los tres desafíos que enfrentan los anfibios que identificamos. Para mañana jueves, piense en cuál de los tres desafíos le gustaría enfocarse para un ejercicio de estudio independiente. Nos encontraremos a la hora de clase en el espacio virtual de SicuaPlus.
