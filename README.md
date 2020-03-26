@@ -56,4 +56,4 @@ Hoy usted comenzará su tarea de investigar y aprender independientemente sobre 
 
 Nos encontraremos el martes para una sesión de clase en la que el profesor hará una presentación que integra el material que los estudiantes habrán preparado independientemente según estas instrucciones.
 
-Finalmente, en la sesión de laboratorio de la próxima semana tendremos una discusión sobre este [artículo](https://science.sciencemag.org/content/367/6479/814) recién publicado que habla de las consecuencias de la extinción de anfibios sobre otros animales: las serpientes que se alimentan de ellos en un bosque tropical de Panamá.
+Finalmente, en la sesión de laboratorio de la próxima semana tendremos una discusión sobre este [estudio](https://science.sciencemag.org/content/367/6479/814) recién publicado que habla de las consecuencias de la extinción de anfibios sobre otros animales: las serpientes que se alimentan de ellos en un bosque tropical de Panamá.
