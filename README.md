@@ -20,7 +20,7 @@
 
 ## Competencias a desarrollar
 
--	Habilidad para leer, comprender e integrar información de la literatura científica.
+-	Habilidad para leer, comprender e integrar información en el marco del método científico.
 
 -	Capacidad de divulgar información científica para un público amplio mediante una infografía.
 
